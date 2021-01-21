@@ -9,3 +9,5 @@ Cosine Similarity calculated and displayed in percentage correct two decimal pla
 
 I will be working to implement extra functionality and improvements to it in the future
 Any suggestions and/or changes more than welcome!
+
+To run the jar file from the terminal type: java –cp ./cosine.jar is.gmit.dip.Runner
